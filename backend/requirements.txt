@@ -1,0 +1,14 @@
+fastapi==0.115.5
+uvicorn[standard]==0.32.1
+pydantic==2.9.2
+python-dotenv==1.0.1
+requests==2.32.3
+langchain==0.3.7
+langchain-groq==0.2.3
+langchain-experimental==0.3.3
+langchain-community==0.3.7
+groq==0.13.0
+pandas==2.2.3
+numpy==1.26.4
+matplotlib==3.9.2
+seaborn==0.13.2
